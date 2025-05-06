@@ -1,6 +1,9 @@
+# import Libraries
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+# Add app Title
+st.title("July Intake Model Deployment")
+
+## Add Header
+st.header("Instructure: Joseph Gitau")
+st.text("Hello everyone, My name is Joseph Gitau, and I will be taking you through the model deployment class in the next few days")
